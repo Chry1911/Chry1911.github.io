@@ -19,7 +19,7 @@ function App() {
       <Navbar />
       <Hiro />
       <Certs />
-      <Skills />
+      <Skills /> 
       <Footer />
     </div>
   );

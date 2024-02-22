@@ -20,8 +20,10 @@ export default function Certs(){
 
             {/* <div className="flex flex-col md:flex-row flex-wrap mt-4 gap-5"> */}
             <div className="grid grid-cols-1 md:grid-cols-3 justify-center mt-4 gap-5">
-                <CertCard name="Maniva AfterSki Cash Desk" img={"https://i.ibb.co/16xj7YY/logo.png"} issued="Maniva" date="Jan 2024" />
-                <CertCard name="Seat and Eat" img={"https://seat-and-eat-frontend-production.up.railway.app/_next/image?url=%2Fseat.png&w=128&q=75"} issued="Seat" date="In work" />
+                <CertCard name="Maniva AfterSki Cash Desk" img={"https://i.ibb.co/16xj7YY/logo.png"} issued="Maniva" date="Jan 2024" 
+                link={"https://cashier-afterski-production.up.railway.app/login"} />
+                <CertCard name="Seat and Eat" img={"https://seat-and-eat-frontend-production.up.railway.app/_next/image?url=%2Fseat.png&w=128&q=75"} issued="Seat" 
+                date="In work" link={"https://seat-and-eat-frontend-production.up.railway.app/"} />
             </div>
             <img src={hr} className="w-full mt-8 md:h-2" alt="hr" />
         </div>
