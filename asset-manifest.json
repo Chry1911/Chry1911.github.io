@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.2c180578.css",
-    "main.js": "/static/js/main.4fad7329.js",
+    "main.js": "/static/js/main.ee6eb1ca.js",
     "static/js/787.a7249224.chunk.js": "/static/js/787.a7249224.chunk.js",
     "static/media/dicoding-js.png": "/static/media/dicoding-js.0d9f522f2e7d05619f4e.png",
     "static/media/dicoding-aws.png": "/static/media/dicoding-aws.11f75438858fbac4779f.png",
     "static/media/dicoding-network.png": "/static/media/dicoding-network.3ed04d5105ea25a7cadb.png",
     "static/media/adinusa.png": "/static/media/adinusa.c8071ddbcb7d23388650.png",
     "static/media/cv.pdf": "/static/media/cv.970bf3a5c5c791a0f0cc.pdf",
-    "static/media/carbon.png": "/static/media/carbon.8574e5f8d2be68d4a316.png",
+    "static/media/carbon.png": "/static/media/carbon.047f1c4fec08e84adfe9.png",
     "static/media/mikrotik.svg": "/static/media/mikrotik.d2e17a6764779d1cc982433d85aeeb58.svg",
     "static/media/progate-js.png": "/static/media/progate-js.4e4006cbc905d0693fae.png",
     "static/media/progate-htmlcss.png": "/static/media/progate-htmlcss.60406a4a02834b312170.png",
@@ -38,11 +38,11 @@
     "static/media/windows.svg": "/static/media/windows.7246ccf28ddce71d8cfd11c1ffc38c86.svg",
     "index.html": "/index.html",
     "main.2c180578.css.map": "/static/css/main.2c180578.css.map",
-    "main.4fad7329.js.map": "/static/js/main.4fad7329.js.map",
+    "main.ee6eb1ca.js.map": "/static/js/main.ee6eb1ca.js.map",
     "787.a7249224.chunk.js.map": "/static/js/787.a7249224.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c180578.css",
-    "static/js/main.4fad7329.js"
+    "static/js/main.ee6eb1ca.js"
   ]
 }
